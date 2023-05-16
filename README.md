@@ -1,1 +1,1 @@
-# mrs.github.io
+# mrs-1302.github.io
